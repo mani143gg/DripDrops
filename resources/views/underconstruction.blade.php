@@ -4,12 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="{{ URL::asset('css/customstyle.css') }}" rel="stylesheet" type="text/css" >
+<link rel="icon" href="{{ URL::asset('images/logo.png') }}" sizes="10x10" type="image/png">
 
-<title>Title</title>
+<title>DripDrops</title>
 </head>
 <body>
 
-<main>
   <section class="advice">
     <h1 class="advice__title">Site under construction</h1>
     <p class="advice__description"><span><</span> building <span>/></span> not finished yet</p>
